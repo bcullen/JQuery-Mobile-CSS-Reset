@@ -803,3 +803,4 @@ div.ui-mobile-viewport { overflow-x: hidden; }
 .ui-popup.ui-corner-all > .ui-footer:only-child {
 	-webkit-border-radius: inherit;
 	border-radius:         inherit;
+}
